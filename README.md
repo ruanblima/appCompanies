@@ -20,7 +20,7 @@
   <li>React Navigation -> Utilizada para fazer as navegações da aplicação </li>
   <li>Axios -> Utilizado para realizar as chamadas a API </li>
   <li>react-native-size-matters -> Utilizado para dar uma melhor responsividade para os componentes </li>
-  <li>react-native-vector-icons -> Utilizado para adicionar ícondes na aplicação </li>
+  <li>react-native-vector-icons -> Utilizado para adicionar ícones na aplicação </li>
 </ul>
 
 ## 💬 Bibliotecas utilizadas para desenvolvimento
